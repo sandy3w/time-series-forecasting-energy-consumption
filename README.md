@@ -90,6 +90,7 @@ time-series-forecasting-energy-consumption/
 │── PJME_hourly.csv       # Historical hourly energy consumption data
 │── training.ipynb        # Jupyter notebook with preprocessing, modeling, and evaluation
 │── README.md             # Project overview and instructions
+│── requirements.txt      # Python packages required to run the project
 ```
 
 ---
